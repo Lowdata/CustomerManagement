@@ -6,7 +6,7 @@ Customer Management is a Full Stack Web App Using react and express to add, dele
 
 ```bash
 //Clone the repository
-git clone 
+git clone https://github.com/Lowdata/CustomerManagement.git
 
 ```
 Now we have two things  
