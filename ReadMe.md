@@ -10,7 +10,7 @@ git clone https://github.com/Lowdata/CustomerManagement.git
 
 ```
 Now we have two things  
-1.Servers Folder (Our Backend) \
+1.Server Folder (Our Backend) \
 2.client Folder (Front-End)
 ## Usage
 
