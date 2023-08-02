@@ -7,7 +7,7 @@ Customer Management is a Full Stack Web App Using react and express to add, dele
 ```bash
 //Clone the repository
 git clone 
-npm install 
+
 ```
 Now we have two things  
 1.Servers Folder (Our Backend) \
@@ -16,11 +16,13 @@ Now we have two things
 
 ```javascript
 cd Server
+npm install
 // Run this command to start our proxy server for API calls
 npm run dev
 ```
 ```javascript
 cd client
+npm install
 // Run this command to start our React-App
 npm run start
 ```
