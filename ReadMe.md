@@ -15,7 +15,7 @@ Now we have two things
 ## Usage
 
 ```javascript
-cd Servers
+cd Server
 // Run this command to start our proxy server for API calls
 npm run dev
 ```
